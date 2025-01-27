@@ -1,0 +1,1 @@
+This repository contains a simple Python program demonstrating a common error in recursive functions: infinite recursion due to improper handling of the base case. The `bug.py` file shows the faulty code, while `bugSolution.py` provides a corrected version.
